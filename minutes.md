@@ -1,5 +1,49 @@
 # Alpine Linux council weekly meeting minutes
 
+## Meeting minutes 2021-07-08 (17:15 - 18:00)
+
+### Present
+
+* Chair: Natanael Copa
+* Scribe: Kevin Daudt
+* Carlo Landmeter
+
+### Follow-up previous meeting
+
+* libera.chat
+  * Handled, Ariadne will handle the technical part
+* discord
+  * Handled
+* TSC members from core team
+  * All existing members who were contacted indicated they want to be part of
+    the TSC, they understood it means a commitment.
+  * Need to work out the details of the TSC, and document it
+
+### Agenda item: Drop mips64 for Alpine 3.14
+
+* No objection from the council. Follow up: ncopa
+* For new architectures, make sure we want to commit to stable releases
+
+### Agenda item: expectations from TSC members
+
+* Should be trusted and respected
+* Should have social skills, being able to coordinate
+* Example in following the code-of-conduct
+* Willing to mentor new TSC members
+* Not expected to be a permanent role
+
+### Agenda item: how do we improve communication with the community
+
+* *Problem*: how will people of the community know about the council, where meeting
+  minutes are published, etc.
+* Make better use of the website, write an article about the council Follow-up:
+  clandmeter, kdaudt
+* In addition, send it to the mailing list
+
+### Other points
+
+* Skip the meeting in the week of the 29th of June due to absence of members.
+
 ## Meeting minutes 2021-06-01 (17:15 - 18:00)
 
 ### Present
