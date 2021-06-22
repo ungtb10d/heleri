@@ -1,6 +1,27 @@
 # Alpine Linux council weekly meeting minutes
 
-## Meeting minutes 2021-07-15 (17:15 - 18:00)
+## Meeting minutes 2021-06-22 (17:15 - 18:00)
+
+### Present
+
+* Scribe: Natanael Copa
+* Kevin Daudt
+* Chair: Carlo Landmeter
+
+### Follow up previous
+
+* Natanael has talked with every on the core team
+* Carlo has created TSC project in gitlab
+
+### meeting with TSC
+
+Things to discuss with the TSC:
+
+* how does it operate?
+* what is the responsibility scope?
+* how do you join/leave the TSC?
+
+## Meeting minutes 2021-06-15 (17:15 - 18:00)
 
 ### Present
 
@@ -33,7 +54,7 @@
 * Create an agenda to discus in our first TSC meeting (Follow up Carlo)
 * Do we need to have a TSC irc channel to discus sensitive matters
 
-## Meeting minutes 2021-07-08 (17:15 - 18:00)
+## Meeting minutes 2021-06-08 (17:15 - 18:00)
 
 ### Present
 
