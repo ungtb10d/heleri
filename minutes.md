@@ -1,5 +1,90 @@
 # Alpine Linux council weekly meeting minutes
 
+## Meeting minutes 2021-08-24 (17:15 - 18:00)
+
+### Present
+
+* Chair: Natanael Copa
+* Scribe: Kevin Daudt
+* Carlo Landmeter
+* Kaarle Kunkku (Consultant)
+
+### Follow-up
+
+#### Write an article about the council
+
+Assigned to Kevin and Carlo. Has not been done yet. Need to pick a moment to do
+it. Provide a draft for ncopa. Need to make sure the article is clear for others
+and ensures this is not a major change in direction.
+
+#### Legal entity
+
+This is not urgent, so lets not rush it. We keep researching options and see
+what suits us. The [issue][issue6] provides some options.
+
+Main goal is to protect individual members from financial liability, though, at
+the moment no one is using personal their credit-card for hosting.
+
+Another goal is to protect individual members against legal action.
+
+Third goal is the be able to accept donations as an organization.
+
+The question is whether the overhead is worth the benefits, we will need to
+research that. We could contact projects like NLnet to ask for advise. Carlo can
+contact them.
+
+Conclusion: We will post-pone this issue for later.
+Follow-Up: Carlo
+
+#### Document the governance structure
+
+Assigned: Kevin
+
+Goal: Adjust the governance handbook to document the current structure.
+Follow-up: Kevin, ask Nathan Angelacos to help
+
+One thing to document: Who assigns the council members, how are members removed
+from the council and how to deal with members resigning.
+
+Our current view is that the council decides who will be on the council. We want
+to keep the direction of the project stable.
+
+Umbrella projects might expect a certain governance style. Has influence on what
+we do regarding legal entities.
+
+Is the TSC involved in any decision making regarding members? We could have
+special provisions in case for example someone disappears. It's a good idea to
+consult the TSC in general.
+
+Task: Document and communicate how the community can bring up issues.
+
+### New points
+
+#### How to handle monetary contributions
+
+Something documented on [the wiki][alpine-developers], but it's severely
+outdated.
+
+We probably want to move this to the official documentation.
+
+Question: who do we list as potential receivers of donations?
+
+Hypothetical situation: what if some company wants to buy Alpine Linux?
+
+A legal entity would help a lot with these situations. These issues have been
+handled until now, we could wait until the entity has been setup.
+
+Right now, we could point a potential donor to individual members.
+
+Task: remove the developers wiki page
+
+### Postponed
+
+* Document the scope of the Council
+
+[issue6]: https://gitlab.alpinelinux.org/alpine/council/-/issues/6
+[alpine-developers]:https://wiki.alpinelinux.org/wiki/Alpine_Linux:Developers
+
 ## Meeting minutes 2021-06-22 (17:15 - 18:00)
 
 ### Present
