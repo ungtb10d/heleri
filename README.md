@@ -1,5 +1,4 @@
 # Alpine Linux Council
 
-
-* [Meeting minutes](minutes.md)
+* [Meeting minutes](minutes/)
 * [Agenda items](agenda/)
