@@ -2,3 +2,4 @@
 
 
 * [Meeting minutes](minutes.md)
+* [Agenda items](agenda/)
